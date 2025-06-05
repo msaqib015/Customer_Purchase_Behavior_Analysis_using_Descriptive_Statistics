@@ -1,4 +1,4 @@
-# 📄 `LICENSE`
+LICENSE
 
 ```
 Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0)
@@ -62,5 +62,3 @@ The license is granted on an "AS IS" basis, without warranties or conditions of 
 
 For the full license text and details, see:  
 https://creativecommons.org/licenses/by-nc/4.0/legalcode
-
----
