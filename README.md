@@ -1,4 +1,4 @@
-### 📈 Customer Purchase Behavior Analysis
+# 📈 Customer Purchase Behavior Analysis
 
 This project delves into **customer purchase patterns and behavior** using descriptive statistics on a retail dataset. By systematically analyzing sales, order, and customer data, it uncovers meaningful insights to support **business decisions** related to **customer segmentation**, **purchase trends**, and **sales optimization**.
 
